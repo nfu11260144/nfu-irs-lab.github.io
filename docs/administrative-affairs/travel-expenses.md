@@ -63,4 +63,4 @@ title: 國內差旅費（交通、住宿、誤餐費）
 
 ## 業師
 
-業師交通費核銷請見「[業師](../administrative-affairs/lecturer/)」。
+業師交通費核銷請見「[業師](./lecturer/)」。

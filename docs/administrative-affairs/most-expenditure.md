@@ -135,7 +135,7 @@ title: 科技部計劃經費
 
 ## 科研採購（設備費）
 
-請見：[科研採購（設備費）](../administrative-affairs/equipment-costs/)
+請見：[科研採購（設備費）](./equipment-costs/)
 
 ## 結餘款
 
