@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/nfu-irs-lab.jpg',
   organizationName: 'nfu-irs-lab', // Usually your GitHub org/user name.
   projectName: 'nfu-irs-lab.github.io', // Usually your repo name.
+  deploymentBranch: 'deploy', // The branch for deployment.
 
   presets: [
     [
