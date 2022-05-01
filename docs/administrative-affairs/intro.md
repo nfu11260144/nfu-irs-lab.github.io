@@ -5,6 +5,14 @@ title: 簡介
 
 本文件所有內容皆僅供參考，詳細事項可能有誤，請自行向老師、系辦或校方確認，本文件不負任何責任也不進行任何賠償。
 
+## 其它連結
+
+- [物料管理系統](https://docs.google.com/spreadsheets/d/1WNVTT-CX9DWHUYH5G5QZmbjoMmGQvuic16Wk4jPxaAc/edit?usp=sharing)
+- [請購系統 - 清單](https://docs.google.com/spreadsheets/d/14JhNROg5rwCDg6KQ2dpf7H-2XoSOMZ63fTx29qjHHWo/edit?usp=sharing)
+- [請購系統 - 輸入用表單](https://forms.gle/HmRGcRkas6abBc346)
+- [現錢記賬系統（含代墊債權務） - 清單](https://docs.google.com/spreadsheets/d/1o5hqiPExFlgmGxnrmGm5zI92BtCTtsGJjrTjYoXYuTM/edit?usp=sharing)
+- [綜合事務管理看板 (Trello)](https://trello.com/b/P0X14upz)
+
 ## 常用處室
 
 | 名稱                     | 地點       |

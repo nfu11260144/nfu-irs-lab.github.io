@@ -5,7 +5,9 @@ title: 階段二：基本設備
 
 ## 雷射切割機
 
-:warning: **`雷射切割機若操作不當將導致火災，操作時請小心並多加確認`** :warning:
+:::caution
+雷射切割機若操作不當將導致火災，操作時請小心並多加確認。
+:::
 
 [![](https://1.bp.blogspot.com/-inS00IaK8AM/YFoMVhr0hHI/AAAAAAAAAZw/I48W9jR7JPMMzH0a-a7l__aPabTkHscVQCPcBGAsYHg/w640-h480/01-%25E6%25A9%259F%25E8%2587%25BA1.jpg)](https://1.bp.blogspot.com/-inS00IaK8AM/YFoMVhr0hHI/AAAAAAAAAZw/I48W9jR7JPMMzH0a-a7l__aPabTkHscVQCPcBGAsYHg/w640-h480/01-%25E6%25A9%259F%25E8%2587%25BA1.jpg)
 > ▲ 實驗室的雷射切割機
@@ -47,9 +49,10 @@ title: 階段二：基本設備
 - 排風扇
 - 雷射切割機
 
-:warning: **`注意事項`** :warning:
+:::caution
 - 雷切機及相關設備開機後至少要等待 5 分鐘以上，才可以進行作業。
 - 打開電源後一定要注意各機器是否有在運作，若有問題將有可能導致火災。
+:::
 
 [![](https://1.bp.blogspot.com/-djki5Xvaxtg/YFoMVrybnfI/AAAAAAAAAZw/07Gr55Bl0Ws1l9bqmLG9agfbK5rbA5IPwCPcBGAsYHg/w640-h480/02-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E9%259B%25BB%25E6%25BA%25901.jpg)](https://1.bp.blogspot.com/-djki5Xvaxtg/YFoMVrybnfI/AAAAAAAAAZw/07Gr55Bl0Ws1l9bqmLG9agfbK5rbA5IPwCPcBGAsYHg/w640-h480/02-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E9%259B%25BB%25E6%25BA%25901.jpg)
 > ▲ 雷切機各電源開關
@@ -98,7 +101,9 @@ title: 階段二：基本設備
 
 ### 雷切機操作
 
-:warning: **`操作雷切機時，如果出現任何問題或預期外事件，立刻按下緊急停機按鈕（STOP）`** :warning:
+:::caution
+操作雷切機時，如果出現任何問題或預期外事件，立刻按下緊急停機按鈕（STOP）。
+:::
 
 設定好參數後就可以按下雷切機程式右下角的「下載數據」，再按下「下載當前加工資料」，程式就會將資料傳輸到雷切機中。
 
@@ -113,9 +118,10 @@ title: 階段二：基本設備
 
 對焦完成後就可以將對焦片拿起並收納好。
 
-:warning: **`注意事項`** :warning:
+:::caution
 - 請注意手一定要扶著雷射頭再轉鬆螺絲，不然雷射頭會突然掉落造成撞擊，導致失焦。
 - 這裡要轉靜/鬆的螺絲是比較上面的內六角黑色螺絲，不是連接著吹氣管的銀色手轉螺絲（吹氣氣閥調整螺絲）。若發現轉錯請**立即停止操作**，並告知學長。
+:::
 
 [![](https://1.bp.blogspot.com/-pMr6tegd9sg/YFsfv4MV9HI/AAAAAAAAAcE/gmQty2k4YWAshViaTQrBhRQ1RzHLvVprACPcBGAsYHg/s16000/10-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E5%25B0%258D%25E7%2584%25A6%25E7%2589%25871.jpg)](https://1.bp.blogspot.com/-pMr6tegd9sg/YFsfv4MV9HI/AAAAAAAAAcE/gmQty2k4YWAshViaTQrBhRQ1RzHLvVprACPcBGAsYHg/s16000/10-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E5%25B0%258D%25E7%2584%25A6%25E7%2589%25871.jpg)
 > ▲ 雷射頭對焦。
@@ -124,7 +130,9 @@ title: 階段二：基本設備
 
 都確定沒問題後，將雷切機的上蓋蓋起，並按下雷切機程式右側的「開始」，機台就會開始進行動作。雷切機運作時會產生高強度雷射，請勿用眼睛直視，否則會受傷。
 
-:warning: **``雷切機運作時一定要待旁邊，若有意外發生請立刻按下緊急停機按鈕（STOP）``** :warning:
+:::caution
+雷切機運作時一定要待旁邊，若有意外發生請立刻按下緊急停機按鈕（STOP）。
+:::
 
 等雷切機完成後即可打開上蓋，小力觸碰切割零件，確認是否已經完全切斷，如果沒有切斷，可以再次進行切割。如果已經完全切斷，就可以將零件及壓克力板拿起，將切割之餘碎料丟到垃圾桶。
 
@@ -144,7 +152,9 @@ title: 階段二：基本設備
 - 水冷液幫補
 - 水冷機
 
-:warning: **`一定要確定機台都確實關機停止運作，否則有可能導致火災`** :warning:
+:::caution
+一定要確定機台都確實關機停止運作，否則有可能導致火災。
+:::
 
 ## 3D 列印機
 目前實驗室共有 6 台 3D 列印機，分別為：
