@@ -2,40 +2,28 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+The branch [`main`](/tree/main) contain source files, branch [`deploy`](/tree/deploy) be used for GitHub-Pages deployment.
 
+## Install
 ```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
+npm install
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
+or
 
 ```
-$ yarn build
+npm ci
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
+## Local Preview
 ```
-$ USE_SSH=true yarn deploy
+npm run start
 ```
 
-Not using SSH:
-
+## Build & Deploy
 ```
-$ GIT_USER=<Your GitHub username> yarn deploy
+npm run build
+npm run deploy
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+> Environment variable `GIT_USER` and `GIT_PASS` are required, see [Deployment](https://docusaurus.io/docs/deployment#environment-settings)
