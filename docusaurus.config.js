@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'NFU 智慧型機器人系統實驗室',
+  title: 'NFU 機器人實驗室',
   tagline: 'NFU Intelligent Robot System Lab.',
   url: 'https://nfu-irs-lab.github.io',
   baseUrl: '/',
@@ -24,13 +24,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://nfu-irs-lab.github.io',
+          editUrl: 'https://github.com/nfu-irs-lab/nfu-irs-lab.github.io',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://nfu-irs-lab.github.io',
+          editUrl: 'https://github.com/nfu-irs-lab/nfu-irs-lab.github.io',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -70,8 +69,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/',
+                label: '文件',
+                to: '/docs/intro/',
               },
             ],
           },
@@ -94,7 +93,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} NFU Intelligent Robot System Lab. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} NFU I.R.S Lab. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
