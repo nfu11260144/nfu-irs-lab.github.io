@@ -25,12 +25,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/nfu-irs-lab/nfu-irs-lab.github.io',
+          editUrl: 'https://github.com/nfu-irs-lab/nfu-irs-lab.github.io/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: 'https://github.com/nfu-irs-lab/nfu-irs-lab.github.io',
+          editUrl: 'https://github.com/nfu-irs-lab/nfu-irs-lab.github.io/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
