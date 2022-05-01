@@ -4,42 +4,40 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '新進人員訓練',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    // Svg: '',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        {/* <div className="text--left"> */}
+          <ol>
+            <li><a href="/docs/orientation-training/step-1">3D 建模</a></li>
+            <li><a href="/docs/orientation-training/step-2">基本設備</a></li>
+            <li><a href="/docs/orientation-training/step-3">Robotis 套件</a></li>
+            <li><a href="/docs/orientation-training/step-4">C# 程式</a></li>
+          </ol>
+        {/* </div> */}
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: '一般核銷須知',
+    // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        收據打統編「64967512」及抬頭「國立虎尾科技大學」<br/>
+        <a href="/docs/administrative-affairs/general-reimburse-instructions">查看完整文件</a>
+        {/* <a class="button button--secondary button--lg" href="/docs/administrative-affairs/general-reimburse-instructions">查看️</a> */}
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--6')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        {/* <Svg className={styles.featureSvg} role="img" /> */}
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
