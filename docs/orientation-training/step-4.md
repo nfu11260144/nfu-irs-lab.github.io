@@ -86,10 +86,10 @@ try
 }
 catch (Exception ex)
 {
-MessageBox.Show($"傳送封包時出錯。\r\n{ex.Message}",
-                "Error",
-                MessageBoxButtons.OK,
-                MessageBoxIcon.Error);
+    MessageBox.Show($"傳送封包時出錯。\r\n{ex.Message}",
+                    "Error",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Error);
 }
 ```
 完成封包後，透過 Serial Port 做傳輸。
