@@ -4,6 +4,8 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 
 The branch [`main`](https://github.com/nfu-irs-lab/nfu-irs-lab.github.io/tree/main) contain source files, branch [`deploy`](https://github.com/nfu-irs-lab/nfu-irs-lab.github.io/tree/deploy) be used for GitHub-Pages deployment.
 
+> Node.js version >= 14
+
 ## Install
 ```
 npm ci
@@ -14,8 +16,6 @@ or
 ```
 npm install
 ```
-
-> Node.js version >= 14
 
 ## Local Preview
 ```
