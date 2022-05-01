@@ -1,8 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
+// Ref: https://github.com/FormidableLabs/prism-react-renderer/tree/master/src/themes
 const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const darkCodeTheme = require('prism-react-renderer/themes/vsDark');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -101,9 +102,9 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} NFU I.R.S Lab. Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
+        theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
-        // additionalLanguages: ['cs'], // FIXME：Bug. https://docusaurus.io/docs/next/markdown-features/code-blocks#supported-languages
+        additionalLanguages: ['csharp'], // Ref: https://docusaurus.io/docs/next/markdown-features/code-blocks#supported-languages
       },
     }),
 };
