@@ -6,14 +6,16 @@ The branch [`main`](https://github.com/nfu-irs-lab/nfu-irs-lab.github.io/tree/ma
 
 ## Install
 ```
-npm install
+npm ci
 ```
 
 or
 
 ```
-npm ci
+npm install
 ```
+
+> Node.js version >= 14
 
 ## Local Preview
 ```
