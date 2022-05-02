@@ -28,7 +28,7 @@ void main(void)
 
 另外你可以爲一個特定的 Commit 加上 Tag（標籤），但通常此功能只會用來當作管理發行版（Release）用。
 
-而 Branch（分支）的用法請見 [Git-Flow、GitHub-Flow](./tools/workflow)。
+而 Branch（分支）的用法請見 [Git-Flow、GitHub-Flow](./workflow)。
 
 ## 軟體工具
 原始的 Git 只能使用指令（CLI）來操作，但現在也有很多圖形介面的 Git 軟體可以使用。以下列出一些比較常見的軟體：
