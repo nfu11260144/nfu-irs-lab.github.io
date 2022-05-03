@@ -74,6 +74,10 @@ const config = {
                 label: '文件',
                 to: '/docs/intro/',
               },
+              {
+                label: '舊版文件',
+                href: 'https://github.com/nfu-irs-lab/docs-legacy'
+              },
             ],
           },
           {
@@ -89,12 +93,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Onshape',
-                to: 'https://cad.onshape.com/',
+                label: 'Onshape 3D 建模',
+                href: 'https://cad.onshape.com/',
               },
               {
                 label: '綜合事務管理看板',
-                to: 'https://trello.com/b/P0X14upz/irs-lab-%E7%B6%9C%E5%90%88%E4%BA%8B%E5%8B%99%E7%AE%A1%E7%90%86%E7%9C%8B%E6%9D%BF',
+                href: 'https://trello.com/b/P0X14upz/irs-lab-%E7%B6%9C%E5%90%88%E4%BA%8B%E5%8B%99%E7%AE%A1%E7%90%86%E7%9C%8B%E6%9D%BF',
               },
             ],
           },
