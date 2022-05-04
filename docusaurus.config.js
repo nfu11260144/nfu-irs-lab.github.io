@@ -72,7 +72,7 @@ const config = {
             items: [
               {
                 label: '文件',
-                to: '/docs/intro/',
+                to: '/docs/',
               },
               {
                 label: '舊版文件',
@@ -110,6 +110,7 @@ const config = {
         darkTheme: darkCodeTheme,
         additionalLanguages: ['csharp', 'gcode'], // Ref: https://docusaurus.io/docs/next/markdown-features/code-blocks#supported-languages
       },
+      autoCollapseSidebarCategories: true, // Ref: https://docusaurus.io/docs/next/sidebar#auto-collapse-sidebar-categories
     }),
 };
 
