@@ -52,6 +52,12 @@ const config = {
         items: [
           {
             type: 'doc',
+            docId: 'orientation-training/intro',
+            position: 'left',
+            label: '新進人員訓練',
+          },
+          {
+            type: 'doc',
             docId: 'intro',
             position: 'left',
             label: '文件',
