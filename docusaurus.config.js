@@ -77,8 +77,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: '文件',
-                to: '/docs/',
+                label: '新進人員訓練',
+                to: '/docs/orientation-training/intro',
+              },
+              {
+                label: '一般核銷須知',
+                to: '/docs/administrative-affairs/general-reimburse-instructions',
               },
               {
                 label: '舊版文件',
