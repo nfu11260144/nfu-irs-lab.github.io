@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/vsDark');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'NFU 機器人實驗室',
-  tagline: 'NFU Intelligent Robot System Lab.',
+  title: '機器人實驗室',
+  tagline: 'Intelligent Robot System Laboratory',
   url: 'https://nfu-irs-lab.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -44,7 +44,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'NFU I.R.S Lab.',
+        title: 'NFU I.R.S. Lab',
         logo: {
           alt: 'Site Logo',
           src: 'img/nfu-irs-lab.jpg',
@@ -103,12 +103,12 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} NFU I.R.S Lab. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} NFU I.R.S. Lab. Built with Docusaurus.`,
       },
       prism: {
         theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
-        additionalLanguages: ['csharp'], // Ref: https://docusaurus.io/docs/next/markdown-features/code-blocks#supported-languages
+        additionalLanguages: ['csharp', 'gcode'], // Ref: https://docusaurus.io/docs/next/markdown-features/code-blocks#supported-languages
       },
     }),
 };
