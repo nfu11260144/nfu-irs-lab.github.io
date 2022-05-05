@@ -6,7 +6,7 @@ This website is built using [Docusaurus 2](https://docusaurus.io/).
 
 The [`main`](https://github.com/nfu-irs-lab/nfu-irs-lab.github.io/tree/main) branch contain source files, [`deploy`](https://github.com/nfu-irs-lab/nfu-irs-lab.github.io/tree/deploy) branch used as GitHub Pages.
 
-> Node.js version >= 14
+> Node.js version `14.13` or above, recommended `16.15.0 (LTS)` 
 
 ## Install
 ```
