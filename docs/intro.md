@@ -20,7 +20,6 @@ slug: /
 - 實驗室電話：(05)631-5749
 - Wi-Fi
     - 名稱 (SSID)：`RobotWiFi`
-    - 密碼：`C206robot`
 - NAS 雲端
     - 路徑：`\\RobotNAS` (不分大小寫，注意斜線方向)
     - 帳號：`member`
