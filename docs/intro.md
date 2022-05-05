@@ -7,10 +7,11 @@ slug: /
 實驗室的各種文件與資料。
 
 ## 常用連結
-- [新進人員訓練](./orientation-training/intro)
+- [新進人員訓練](./orientation-training)
 - [一般核銷須知](./administrative-affairs/general-reimburse-instructions)
 - [GitHub](https://github.com/nfu-irs-lab)
 - [Onshape (3D 建模)](https://cad.onshape.com/)
+- [MISUMI 三住](https://tw.misumi-ec.com/)
 
 ## 各裝置資訊
 
