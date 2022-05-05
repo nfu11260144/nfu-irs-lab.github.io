@@ -18,7 +18,8 @@ const sidebars = {
 
   // But you can create a sidebar manually
   tutorialSidebar: [
-    'orientation-training/intro',
+    // 'orientation-training/intro',
+    'orientation-training/index',
     'orientation-training/step-1',
     'orientation-training/step-2',
     'orientation-training/step-3',

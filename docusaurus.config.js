@@ -52,7 +52,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'orientation-training/intro',
+            docId: 'orientation-training/index',
             position: 'left',
             label: '新進人員訓練',
           },
@@ -78,7 +78,7 @@ const config = {
             items: [
               {
                 label: '新進人員訓練',
-                to: '/docs/orientation-training/intro',
+                to: '/docs/orientation-training',
               },
               {
                 label: '一般核銷須知',
