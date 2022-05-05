@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/vsDark');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '機器人實驗室',
+  title: 'NFU 機器人實驗室',
   tagline: 'Intelligent Robot System Laboratory',
   url: 'https://nfu-irs-lab.github.io',
   baseUrl: '/',
