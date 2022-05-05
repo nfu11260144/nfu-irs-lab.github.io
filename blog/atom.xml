@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nfu-irs-lab.github.io/blog</id>
-    <title>機器人實驗室 Blog</title>
+    <title>NFU 機器人實驗室 Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nfu-irs-lab.github.io/blog"/>
-    <subtitle>機器人實驗室 Blog</subtitle>
+    <subtitle>NFU 機器人實驗室 Blog</subtitle>
     <icon>https://nfu-irs-lab.github.io/img/nfu-irs-lab.jpg</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
