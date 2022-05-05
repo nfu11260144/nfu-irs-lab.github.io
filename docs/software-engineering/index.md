@@ -7,6 +7,11 @@ slug: /software-engineering
 
 > 各章節後的參考資料基本上都是以筆者認為有幫助的程度、從高至低排序。
 
+## 其它資源
+
+- [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+- [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+
 ---
 
 ```mdx-code-block

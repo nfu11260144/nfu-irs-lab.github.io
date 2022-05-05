@@ -83,7 +83,3 @@ slug: /
 >> - 第13節開始上課時間：20：55
 >> - 第14節開始上課時間：21：40
 
-## 其它資源
-
-- [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
-- [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
