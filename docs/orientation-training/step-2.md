@@ -3,6 +3,8 @@ sidebar_position: 2
 title: 階段二：基本設備
 ---
 
+學習雷射切割機與 3D 列印機的使用方式，以製作零件。
+
 ## 雷射切割機
 
 :::caution

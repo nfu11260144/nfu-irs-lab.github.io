@@ -3,6 +3,8 @@ sidebar_position: 3
 title: 階段三：Robotis 套件
 ---
 
+學習 Robotis 套件的基本用法，以控制馬達。
+
 ## RoboPlus Manager
 拿出一台「CM-530」控制器及至少一顆「AX-12(A)」馬達，並使用 3-Pin 傳輸線連接。「CM-530」使用 USB 線連接電腦，接上 9~12 V 電源並開啟。
 
