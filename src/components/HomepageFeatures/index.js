@@ -31,11 +31,19 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: '本網站的 QR Code',
+    description: (
+      <>
+       <img src="/img/qr-code.png" title="本網站的 QR Code"></img>
+      </>
+    ),
+  },
 ];
 
 function Feature({ Svg, title, description }) {
   return (
-    <div className={clsx('col col--6')}>
+    <div className={clsx('col col--4')}>
       <div className="text--center">
         {/* <Svg className={styles.featureSvg} role="img" /> */}
       </div>
