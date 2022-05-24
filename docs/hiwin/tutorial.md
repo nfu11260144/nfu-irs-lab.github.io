@@ -90,3 +90,8 @@ title: 相關教學
 ### 管理員
 
 > 未完成。
+
+## 手臂控制程式架構
+
+[![](/img/robotic-arm-control-panel-architecture.svg)](/img/robotic-arm-control-panel-architecture.svg)
+> ▲ 手臂控制程式概略架構圖
