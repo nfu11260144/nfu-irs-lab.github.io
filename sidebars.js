@@ -41,7 +41,7 @@ const sidebars = {
         'administrative-affairs/tender',
         'administrative-affairs/transfer',
         'administrative-affairs/travel-expenses',
-        'administrative-affairs/enployment',
+        'administrative-affairs/employment',
       ],
     },
     {
