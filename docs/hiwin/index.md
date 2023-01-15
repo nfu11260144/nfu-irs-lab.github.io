@@ -12,10 +12,10 @@ slug: /hiwin
 - XEG 夾爪範例程式：[hiwinrobot-xeg-gripper-example](https://github.com/nfu-irs-lab/hiwinrobot-xeg-gripper-example)
 
 ## 各屆程式
-- [14屆 2022](./hiwin/14th) (~~2021~~)
+- [14屆 2022](./hiwin/14th) (原2021)
   - 智慧撞球：[hiwinrobot-14-billiards](https://github.com/nfu-irs-lab/hiwinrobot-14-billiards)
   - 智慧拼圖：[hiwinrobot-14-puzzle](https://github.com/nfu-irs-lab/hiwinrobot-14-puzzle)
-  - 智慧創作：none
+  - 智慧創作：[hiwinrobot-14-creation](https://github.com/nfu-irs-lab/hiwinrobot-14-creation)
 - [13屆 2020](./hiwin/13th)
   - 智慧撞球：[hiwinrobot-13-billiards](https://github.com/nfu-irs-lab/hiwinrobot-13-billiards)
   - 智慧拼圖：[hiwinrobot-13-puzzle](https://github.com/nfu-irs-lab/hiwinrobot-13-puzzle)
