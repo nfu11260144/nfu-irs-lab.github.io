@@ -61,3 +61,59 @@ void main(void)
 - [Pro Git, 繁體中文第 2 版（免費書籍）](https://taichunmin.gitlab.io/progit2-zh-tw/)
 - [為你自己學 Git！](https://gitbook.tw/chapters/introduction/about-this-book.html)
 - [什麼是 Git？為什麼要學習它？](https://gitbook.tw/chapters/introduction/what-is-git.html)
+
+## git 指令參考
+```
+cd '填入你要追蹤的資料夾的路徑'
+
+git init(初始化並開始追蹤)
+
+git --version(查看目前git版本)
+
+git config --global user.email <信箱>
+
+git config --global user.name <名字>
+
+git config --list(查看輸入了哪些個人資訊)
+
+git status(查看git目前狀態)
+
+git add .(將改的所有東西打包到索引區)
+
+git add '你要打包到索引的檔案名稱'
+
+git reset --<要退回所引的檔案名稱>
+
+git clone <那串代碼的網址>
+
+git commit -m"你這次更新的內容"    :qw儲存並退出Vim
+
+git push -u <遠端數據庫名稱(通常是origin)><遠端的哪條分支> (-u也可以不打，打了是預設下次如果只打git push 會預設上傳到-u後面那個數據庫)
+
+git push <遠端數據庫名稱(通常是origin)> <本地的哪條分支>:<在遠端產生一個對應的分支>(遠端版)
+
+git push <遠端數據庫名稱(通常是origin)> <本地的哪條分支> 從本地分支丟上去遠端
+
+git remote add <origin> <一串網址>	在遠端數據庫開新分支
+
+git checkout (查看git 目前狀態)
+
+git merge '要合併的分支'(將分支合併，通常是舊的合併到新的)   ⨳⨳⨳'要合併的分支'merge到 HEAD指的分支
+
+git merge '要合併的分支'--no-ff(--no-f:不產生快轉，就是會分支出來給你看到兩個東西合併，不會整條直線直接覆蓋)
+
+git reset --soft HEAD~<數字>(還原到上個版本，數字決定要還原幾個版本)
+
+git reset <commit點位置>
+
+git reflog 查看你每個commit的紀錄
+
+git log --oneline -<數字>	查看你有幾筆commit(數字內代表只顯示幾個)
+
+fsutil file createnew <file-name> <file-size-in-KB>(新增檔案)
+
+md <file-name>..\ (新增資料夾)
+
+git log --all --decorate --oneline --graph
+
+```
