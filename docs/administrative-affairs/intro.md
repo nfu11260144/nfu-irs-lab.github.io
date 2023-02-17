@@ -11,6 +11,7 @@ title: 簡介
 - [現錢記賬系統（含代墊債權務） - 清單](https://docs.google.com/spreadsheets/d/1o5hqiPExFlgmGxnrmGm5zI92BtCTtsGJjrTjYoXYuTM/edit?usp=sharing)
 - [現錢記賬系統 - 輸入用表單](https://docs.google.com/forms/d/e/1FAIpQLSecY9M-wIP0Ot-zD1DW77EQ26LUE4mF9ERlfBUiF5s0n9PS-g/viewform)
 - [綜合事務管理看板 (Trello)](https://trello.com/b/P0X14upz)
+- [行政事務教學影片](https://youtu.be/AUIbLJXiiDI)
 
 ## 常用處室
 
