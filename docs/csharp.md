@@ -4,6 +4,7 @@ title: C#
 ---
 
 [Learn C# in Y Minutes](https://learnxinyminutes.com/docs/csharp/)
+
 [安裝Nuget套件](https://youtu.be/lR8RZ_RZhxk)
 
 ## 類別 Class
