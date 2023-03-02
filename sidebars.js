@@ -42,6 +42,7 @@ const sidebars = {
         'administrative-affairs/transfer',
         'administrative-affairs/travel-expenses',
         'administrative-affairs/employment',
+        'administrative-affairs/GoAbroad',
       ],
     },
     {
