@@ -61,6 +61,7 @@ void main(void)
 - [Pro Git, 繁體中文第 2 版（免費書籍）](https://taichunmin.gitlab.io/progit2-zh-tw/)
 - [為你自己學 Git！](https://gitbook.tw/chapters/introduction/about-this-book.html)
 - [什麼是 Git？為什麼要學習它？](https://gitbook.tw/chapters/introduction/what-is-git.html)
+- [git alias教學](https://ithelp.ithome.com.tw/articles/10278293)
 
 ## git 指令參考
 ```
