@@ -97,6 +97,8 @@ git push <遠端數據庫名稱(通常是origin)> <本地的哪條分支> 從本
 
 git remote add <origin> <一串網址>	在遠端數據庫開新分支
 
+git remote -v (確認此專案會push到哪個remote網址)
+
 git checkout (查看git 目前狀態)
 
 git merge '要合併的分支'(將分支合併，通常是舊的合併到新的)   ⨳⨳⨳'要合併的分支'merge到 HEAD指的分支
