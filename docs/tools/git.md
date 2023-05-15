@@ -63,6 +63,11 @@ void main(void)
 - [什麼是 Git？為什麼要學習它？](https://gitbook.tw/chapters/introduction/what-is-git.html)
 - [git alias教學](https://ithelp.ithome.com.tw/articles/10278293)
 
+## push或是clone repo時，發生Permission denied
+  - 找到電腦裡的「認證管理員」
+  - 將有關git的所有認證刪除
+  - 再重新push一次，經過網站上的github認證就可以了
+
 ## git 指令參考
 ```
 cd '填入你要追蹤的資料夾的路徑'
