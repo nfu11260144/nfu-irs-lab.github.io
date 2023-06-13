@@ -159,13 +159,12 @@ title: 階段二：基本設備
 :::
 
 ## 3D 列印機
-目前實驗室共有 6 台 3D 列印機，分別為：
+目前實驗室共有 3 台 3D 列印機，分別為：
 - Creality CR-5 Pro（白色，笛卡爾型）
 - Creality Ender-5 Pro （黑色，笛卡爾型）
 - Creality CR-30 *3DPrintMill*（黑色，履帶型，需要專用軟體）
-- ATOM 2.5 EX（黑色，Delta 型）
-- ATOM 2.5 FX（黑色，Delta 型）
-- UP BOX（黑橘色，笛卡爾型，需要專用軟體）
+
+![](https://i.imgur.com/Nj1ynSK.png)
 
 以下以「ATOM 2.5 EX/FX」示範 3D 列印機的使用操作。
 
