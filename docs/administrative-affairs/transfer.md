@@ -3,6 +3,8 @@ sidebar_position: 8
 title: 回沖
 ---
 
+## [參考影片](https://youtu.be/AUIbLJXiiDI)
+
 1. 到「主計室 > 出納網路查詢服務系統 > [出納零用金付款查詢系統](https://financial.nfu.edu.tw/)」登入老師帳號。
 2. 點選「小額付款查詢」。
 3. 依照上一次回沖的記錄，製作新的回沖試算表格。
