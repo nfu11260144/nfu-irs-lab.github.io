@@ -86,3 +86,6 @@ AX-12（或其它 AI 馬達）有兩種操作模式：Joint（關節）與Wheel�
 
 ## 驗收-3：以 Robotis 套件控制機械手臂
 使用 Robotis 套件來控制「驗收-2」所設計的機械手臂。要求僅需要進行簡單的動作控制，只要能看出可以控制馬達即可。
+
+## 控制器搜尋到UNKNOW馬達解決方法
+[參考影片](https://youtu.be/ixw8P0qHBxM?si=qDkmqG8t_7aFLnug)
